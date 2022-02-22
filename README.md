@@ -10,29 +10,33 @@ kevin villa chavez y karen villa chavez , mis abuelos son felipe villa ramirez y
 salir mucho a caminar solo o aveces acompañado, escuchar mucho todo tipo de musica, componer aveces musica, jugar videojuegos , y aveces hacer streams  en twitch vallan a seguirme en twitch [bryan_villa](https://www.twitch.tv/bryan_villa) y aveces subo videos en youtube [Bryan villa](https://www.youtube.com/channel/UCplUcqKZCYDmZ1DvvOo_R5A)
 
 ```markdown
-Syntax highlighted code block
+mis artitas favoritos son 
 
-# Header 1
-## Header 2
-### Header 3
+1. michael jackson
+2. the weeknd 
+3. doja cat
+4. dimitri vegas & like mike 
+5. Dua lipa 
+6. billie eilish 
+7. skrillex 
+8. kidd keo 
+9. bad bunny
+10. kendrick lamar
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+mis peliculas favoritas son 
+1. el hombre araña 2 (2004) 
+2. el hombre araña 3 (2007)
+3. spider-man no hay home 
+4. amazing spiderman (2012)
+5. john wick 1,2 ,3 
+6. avengers infinity war 
+7. avengers endgame
+8. iron man 1 
+9.star wars la venganza de los sith 
+10. dragon ball la batalla de los dioses}
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bryan-xo/bryan-xo.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
