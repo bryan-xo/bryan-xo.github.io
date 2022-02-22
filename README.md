@@ -6,6 +6,9 @@
 mi nombre es brian villa chavez tengo 18 años, naci el 26 de febrero del 2003 mis padres son maricela chavez paz e felipe villa ramirez, soy el mayor de dos hermanos llamaados 
 kevin villa chavez y karen villa chavez , mis abuelos son felipe villa ramirez y tereza paz mulato 
 
+### mis pasatiempos son
+salir mucho a caminar solo o aveces acompañado, escuchar mucho todo tipo de musica, componer aveces musica, jugar videojuegos , y aveces hacer streams  en twitch vallan a seguirme en twitch [bryan_villa](https://www.twitch.tv/bryan_villa) y aveces subo videos en youtube [Bryan villa](https://www.youtube.com/channel/UCplUcqKZCYDmZ1DvvOo_R5A)
+
 ```markdown
 Syntax highlighted code block
 
