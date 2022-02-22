@@ -1,12 +1,10 @@
 ## bienvenidos a mi primer pagina web en github.io
 
-You can use the [editor on GitHub](https://github.com/bryan-xo/bryan-xo.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Quien soy? 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+mi nombre es brian villa chavez tengo 18 años, naci el 26 de febrero del 2003 mis padres son maricela chavez paz e felipe villa ramirez, soy el mayor de dos hermanos llamaados 
+kevin villa chavez y karen villa chavez , mis abuelos son felipe villa ramirez y tereza paz mulato 
 
 ```markdown
 Syntax highlighted code block
