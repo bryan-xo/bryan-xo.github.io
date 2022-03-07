@@ -3,7 +3,7 @@ esta pagina es para mi clase del profesor galielo y aprender mas en el lenguaje 
 y elaborar un tipo curriculum 
 
 
-## [Quien soy?](./quiensoy?.md)
+## [Quien soy?](./quiensoy.md)
 
 
 
