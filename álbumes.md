@@ -1,5 +1,5 @@
-# mis albunes favoritos son:
-| nro.| peliculas favoritas | año de salida  |
+# mis álbumes favoritos son:
+| nro.| álbumes favoritos | año de salida  |
 | ---- | ------------- |---------|
 | 1 | Thriller  |(1982) |
 | 2 | Dangerous |(1991) |
