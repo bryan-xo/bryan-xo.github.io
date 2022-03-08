@@ -3,7 +3,7 @@ esta pagina es para mi clase del profesor galielo y aprender mas en el lenguaje 
 y elaborar un tipo curriculum 
 
 ## menu 
-## [Quien soy?](./quiensoy.md)-- [mis pasatiempos Son](./pasatiempos.md) ---[Habilidades en trabajo](./experiencia.md)-- [lugares donde eh trabajado](./lugares.md)-- [mis artitas favoritos son](./artistas.md)--- [mis peliculas favoritas son](./peliculas.md)--- [mis albunes favoritos son](./álbumes.md) 
+## [Quien soy?](./quiensoy.md)-- [mis pasatiempos Son](./pasatiempos.md) ---[Habilidades en trabajo](./experiencia.md)-- [lugares donde eh trabajado](./lugares.md)-- [mis artitas favoritos son](./artistas.md)--- [mis peliculas favoritas son](./peliculas.md)--- [mis álbumes favoritos son](./álbumes.md) 
 
 
 
